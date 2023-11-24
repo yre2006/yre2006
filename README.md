@@ -1,4 +1,4 @@
-### hi im yré and im a 17 year old front end dev
+### hi I am Yré and I am a front end dev.
 
 <!--
 **yre2006/yre2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
