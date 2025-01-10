@@ -1,5 +1,5 @@
 ### hi I am Yré and I am a front end developer
-im a motivated hard front end deceloper, i really like designing and styling.
+im a motivated hard working front end developer, i really like designing and styling.
 
 LinkIn: https://www.linkedin.com/feed/
 
