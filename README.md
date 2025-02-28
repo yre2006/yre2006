@@ -1,7 +1,7 @@
 ### hi I am Yré and I am a front end developer
 im a motivated hard working front end developer, i really like designing and styling.
 
-LinkIn: https://www.linkedin.com/feed/
+LinkIn:[ https://www.linkedin.com/feed/](https://www.linkedin.com/in/yre-van-der-velden-89330b346/)
 
 <!--
 **yre2006/yre2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
