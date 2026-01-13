@@ -1,19 +1,15 @@
-### Hello, i'm Yré van der Velden, i am a Front-End Developer.
-im a motivated hard working front end developer, i really like designing and styling.
+### 👋 Hi, I’m Yré van der Velden
 
-LinkIn:[ https://www.linkedin.com/feed/](https://www.linkedin.com/in/yre-van-der-velden-89330b346/)
+Ik ben een Front-End Developer met een sterke passie voor design, styling en user experience.
 
-<!--
-**yre2006/yre2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben gemotiveerd, leergierig en werk graag aan moderne front-end projecten. Ik focus me vooral op het bouwen van mooie, gebruiksvriendelijke interfaces met schone code.
 
-Here are some ideas to get you started:
+💻 Opleiding: Software Developer
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning front end development
-- 👯 I’m looking to collaborate on whatsapp
-- 🤔 I’m looking for help with coding because im trying to learn
-- 💬 Ask me about anything
-- 📫 How to reach me: snap: persoon1236
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: nothing
--->
+🎨 Sterk in design & styling
+
+🚀 Altijd bezig met beter worden in front-end
+
+🥊 Kickbox & 🎮 gamer in m’n vrije tijd
+
+🔗 LinkedIn: https://www.linkedin.com/in/yre-van-der-velden-89330b346/
