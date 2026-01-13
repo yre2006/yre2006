@@ -1,4 +1,4 @@
-### hi I am Yré and I am a front end developer
+### Hello, i'm Yré van der Velden, i am a Front-End Developer.
 im a motivated hard working front end developer, i really like designing and styling.
 
 LinkIn:[ https://www.linkedin.com/feed/](https://www.linkedin.com/in/yre-van-der-velden-89330b346/)
